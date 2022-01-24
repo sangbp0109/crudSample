@@ -1,0 +1,5 @@
+INDEX VERSION 1.4+C:\Users\sangb\OneDrive\πŸ≈¡ »≠∏È\Program\CrudSample\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+439781598.index
+4150832918.index
+3957329029.index
+735120552.index

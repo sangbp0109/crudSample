@@ -1,0 +1,20 @@
+@charset "EUC-KR";
+
+.warning{
+	color: red;
+	font-size: 10px;
+}
+
+.success{
+	color: blue;
+	font-size: 14px;
+}
+
+.noDisplay{
+	display: none;
+	font-size: 10px;
+}
+
+.phoneBox{
+	width: 50px;
+}

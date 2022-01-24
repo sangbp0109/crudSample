@@ -1,0 +1,28 @@
+1624338102449	Encapsulate field 'codeId'
+1624338485772	Encapsulate field 'codeId'
+1624348400337	Rename resource 'singUpPage.jsp'
+1624348407370	Rename resource 'signUp'
+1624348550452	Rename package 'com.spring.userInfo.vo'
+1624348562560	Rename resource 'userInfo'
+1624348785777	Rename resource 'userInfo.jsp'
+1624421437334	Rename package 'com.spring.service.impl'
+1624421453459	Rename package 'com.spring.dao.impl'
+1624421533587	Copy compilation unit
+1624421554622	Delete element
+1624421689519	Rename type 'impl'
+1624421703821	Delete element
+1624421940329	Rename resource 'join.jsp'
+1624425558511	Rename compilation unit 'UserVo.java'
+1624426158530	Delete element
+1624426287673	Delete element
+1624426355100	Delete element
+1624426432072	Delete element
+1624426438751	Delete element
+1624426582737	Delete element
+1624426654382	Delete element
+1624426719373	Delete element
+1624427177743	Delete element
+1624427399667	Delete element
+1624428122313	Delete element
+1624428258536	Delete element
+1624461840555	Delete element
